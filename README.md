@@ -48,6 +48,11 @@ se hace usando __git commit__
 **-m** se puede usar para enviar en el commit el mensaje directamente ej. __git commit -m "Primer Commit"__
 *USAR CON PRECAUCION*
 
+##Uso de multiples cuentas de GitHub configuradas en una misma maquina
+Para ello seguir este ejemplo :   https://platzi.com/tutoriales/1557-git-github/1751-multiples-cuentas-de-git/        https://www.damianculotta.com.ar/control-de-versiones/usando-multiples-cuentas-en-github/
+
+ 
+
 ## Status
 
 Permite visualizar si hay archivos que tienen ambios que pendientes de hacer commit/sobreescribir
