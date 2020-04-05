@@ -27,6 +27,10 @@ ej. el editor de commits o el nombre de usuario
 
 Esto se hace para configurar la instalacion/repositorio
 
+## Uso de multiples cuentas de GitHub configuradas en una misma maquina
+Para ello seguir este ejemplo :   https://platzi.com/tutoriales/1557-git-github/1751-multiples-cuentas-de-git/        https://www.damianculotta.com.ar/control-de-versiones/usando-multiples-cuentas-en-github/
+
+
 ## Add
 
 Para poder agregar algo a un commit hay que crearlo y luego agregarlo con __git add__
@@ -47,10 +51,6 @@ se hace usando __git commit__
 
 **-m** se puede usar para enviar en el commit el mensaje directamente ej. __git commit -m "Primer Commit"__
 *USAR CON PRECAUCION*
-
-##Uso de multiples cuentas de GitHub configuradas en una misma maquina
-Para ello seguir este ejemplo :   https://platzi.com/tutoriales/1557-git-github/1751-multiples-cuentas-de-git/        https://www.damianculotta.com.ar/control-de-versiones/usando-multiples-cuentas-en-github/
-
  
 
 ## Status
