@@ -9,6 +9,8 @@ tambien se puede inicializar una carpeta ya existente ej
     $ cd nombreRepositorio
     nombreRepositorio/$ git init
 
+
+
 ## Config
 
 Para poder ver que configuraciones tenemos usamos __git config__
